@@ -1,0 +1,11 @@
+streamlit
+Pillow
+easyocr
+PyMuPDF
+numpy
+pandas
+scikit-learn
+torch
+transformers
+joblib
+reportlab
